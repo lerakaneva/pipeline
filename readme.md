@@ -2,7 +2,7 @@
 
 This pipeline segments TIFF image stacks to identify thrombi and platelets. It consists of three steps: resizing and normalization, neural network segmentation, and segmentation correction.
 
-## Prerequisites (Apple Processors like M3)
+## Prerequisites for macOS (Apple Silicon)
 
 * **Python 3.9:** Ensure Python 3.9 is installed.
 * **HDF5:** Install the HDF5 library:
